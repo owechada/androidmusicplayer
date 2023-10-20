@@ -2,6 +2,8 @@
 
 This is a public repo for my full fledge android app built with Android studio Java and XML
 
+Feel free to clone and build on your local machine.
+
 https://github.com/owechada/androidmusicplayer/assets/48310582/d74c835b-7cb5-478a-9a45-05ef1da3152e
 
 
